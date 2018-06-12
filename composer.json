@@ -1,5 +1,6 @@
 {
 	"name":"yancunju/learn-composer",
+	"description":"learn composer",
 	"require":{
 		"gregwar/captcha": "^1.1"
 	}
