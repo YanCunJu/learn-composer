@@ -1,6 +1,7 @@
 {
 	"name":"yancunju/learn-composer",
 	"description":"learn composer",
+	"license": "MIT",
 	"require":{
 		"gregwar/captcha": "^1.1"
 	}
